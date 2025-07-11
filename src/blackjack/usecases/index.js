@@ -1,0 +1,6 @@
+export {crearDeck} from './crear-deack'
+export {pedirCarta} from './pedir-carta'
+export {valorCarta} from './valor-carta'
+export {acumularPuntos} from './acumular-puntos'
+export {crearCarta} from './crear-carta'
+export {turnoComputadora} from './turno-computadora'
